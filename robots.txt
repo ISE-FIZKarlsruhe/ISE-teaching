@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://localhost:60428/ISE-teaching/sitemap.xml

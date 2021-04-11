@@ -1,0 +1,18 @@
+{
+  "name": "ISE Courses",
+  "short_name": "ISE Courses",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/ISE-teaching/media/icon_hua4a2f2a933edc9287bbf785d7b0a2724_20906_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/ISE-teaching/media/icon_hua4a2f2a933edc9287bbf785d7b0a2724_20906_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/ISE-teaching/?utm_source=web_app_manifest"
+}
