@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semantic web | ISE Courses</title>
+    <link>http://localhost:51428/ISE-teaching/tag/semantic-web/</link>
+      <atom:link href="http://localhost:51428/ISE-teaching/tag/semantic-web/index.xml" rel="self" type="application/rss+xml" />
+    <description>semantic web</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:51428/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>semantic web</title>
+      <link>http://localhost:51428/ISE-teaching/tag/semantic-web/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 1</title>
+      <link>http://localhost:51428/ISE-teaching/talk/ise-lecture-1/</link>
+      <pubDate>Wed, 14 Apr 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:51428/ISE-teaching/talk/ise-lecture-1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;1.1  How to get Information (from the Web)?&lt;/li&gt;
+&lt;li&gt;1.2  Communication, Language, and Understanding&lt;/li&gt;
+&lt;li&gt;1.3  How to Measure Information?&lt;/li&gt;
+&lt;li&gt;1.4  The Ever-Growing Web of Information&lt;/li&gt;
+&lt;li&gt;1.5  Search Engines on the Web&lt;/li&gt;
+&lt;li&gt;1.6  The Meaning of Information&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
