@@ -64,7 +64,7 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - MOOC Course: Knowledge Graphs at openHPI
 
 #### [WiSe20/21]
-- [Information Service Engineering Project Course]((http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en)) at KIT (AIFB)
+- [Information Service Engineering Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en) at KIT (AIFB)
 - [Representation Learning for Knowledge Graphs](https://www.aifb.kit.edu/web/Lehre/Seminar_Seminar_Representation_Learning_for_Knowledge_Graphs/en) at KIT (AIFB)
 
 #### [SoSe2020 - ISE Lecture](http://www.aifb.kit.edu/web/Lehre/Vorlesung_Information_Service_Engineering/en)
