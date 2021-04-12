@@ -18,32 +18,22 @@
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/</loc>
+    <loc>http://localhost:58883/ISE-teaching/</loc>
     <lastmod>2021-04-21T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/talk/ise-lecture-2/</loc>
+    <loc>http://localhost:58883/ISE-teaching/talk/ise-lecture-2/</loc>
     <lastmod>2021-04-21T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/event/</loc>
+    <loc>http://localhost:58883/ISE-teaching/event/</loc>
     <lastmod>2021-04-21T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/nlp/</loc>
-    <lastmod>2021-04-21T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-21T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:51543/ISE-teaching/tags/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/nlp/</loc>
     <lastmod>2021-04-21T08:00:00+00:00</lastmod>
   </url>
   
@@ -53,42 +43,52 @@
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/ie/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tags/</loc>
+    <lastmod>2021-04-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-04-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:58883/ISE-teaching/tag/ie/</loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/information-retrieval/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/information-retrieval/</loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/talk/ise-lecture-1/</loc>
+    <loc>http://localhost:58883/ISE-teaching/talk/ise-lecture-1/</loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/knowledge-graph/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/knowledge-graph/</loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/linked-open-data/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/linked-open-data/</loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/lod/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/lod/</loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/machine-learning/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/machine-learning/</loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/semantic-web/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/semantic-web/</loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   
@@ -98,32 +98,22 @@
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/academic/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/categories/</loc>
+    <loc>http://localhost:58883/ISE-teaching/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/category/demo/</loc>
+    <loc>http://localhost:58883/ISE-teaching/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:51543/ISE-teaching/post/getting-started/</loc>
+    <loc>http://localhost:58883/ISE-teaching/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,57 +123,67 @@
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:58883/ISE-teaching/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc></loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/slides/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:58883/ISE-teaching/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:58883/ISE-teaching/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/slides/example/</loc>
+    <loc>http://localhost:58883/ISE-teaching/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/tag/deep-learning/</loc>
+    <loc>http://localhost:58883/ISE-teaching/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/project/example/</loc>
+    <loc>http://localhost:58883/ISE-teaching/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/project/</loc>
+    <loc>http://localhost:58883/ISE-teaching/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/publication-type/1/</loc>
+    <loc>http://localhost:58883/ISE-teaching/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/publication/example/</loc>
+    <loc>http://localhost:58883/ISE-teaching/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/publication_types/</loc>
+    <loc>http://localhost:58883/ISE-teaching/publication_types/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/publication/</loc>
+    <loc>http://localhost:58883/ISE-teaching/publication/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,7 +193,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:51543/ISE-teaching/admin/</loc>
+    <loc>http://localhost:58883/ISE-teaching/admin/</loc>
   </url>
   
 </urlset>

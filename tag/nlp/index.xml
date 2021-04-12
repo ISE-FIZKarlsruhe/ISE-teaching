@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nlp | ISE Courses</title>
-    <link>http://localhost:51543/ISE-teaching/tag/nlp/</link>
-      <atom:link href="http://localhost:51543/ISE-teaching/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <title>nlp | Information Service Engineering</title>
+    <link>http://localhost:58883/ISE-teaching/tag/nlp/</link>
+      <atom:link href="http://localhost:58883/ISE-teaching/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>nlp</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Apr 2021 08:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:51543/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <url>http://localhost:58883/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
       <title>nlp</title>
-      <link>http://localhost:51543/ISE-teaching/tag/nlp/</link>
+      <link>http://localhost:58883/ISE-teaching/tag/nlp/</link>
     </image>
     
     <item>
       <title>ISE Lecture 2</title>
-      <link>http://localhost:51543/ISE-teaching/talk/ise-lecture-2/</link>
+      <link>http://localhost:58883/ISE-teaching/talk/ise-lecture-2/</link>
       <pubDate>Wed, 21 Apr 2021 08:00:00 +0000</pubDate>
-      <guid>http://localhost:51543/ISE-teaching/talk/ise-lecture-2/</guid>
+      <guid>http://localhost:58883/ISE-teaching/talk/ise-lecture-2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;2.0  What is Natural Language Processing?&lt;/li&gt;
 &lt;li&gt;2.1  Basic Linguistics&lt;/li&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>ISE Lecture 1</title>
-      <link>http://localhost:51543/ISE-teaching/talk/ise-lecture-1/</link>
+      <link>http://localhost:58883/ISE-teaching/talk/ise-lecture-1/</link>
       <pubDate>Wed, 14 Apr 2021 08:00:00 +0000</pubDate>
-      <guid>http://localhost:51543/ISE-teaching/talk/ise-lecture-1/</guid>
+      <guid>http://localhost:58883/ISE-teaching/talk/ise-lecture-1/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;1.1  How to get Information (from the Web)?&lt;/li&gt;
 &lt;li&gt;1.2  Communication, Language, and Understanding&lt;/li&gt;
