@@ -63,16 +63,22 @@ In this lecture, the students will learn the fundamentals of natural language pr
 #### [Knowledge Graphs (2020)](https://open.hpi.de/courses/knowledgegraphs2020)
 - MOOC Course: Knowledge Graphs at openHPI
 
+#### [WiSe20/21 - ISE Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en)
+- Winter Semester 2020/21: Information Service Engineering Project Course at KIT (AIFB)
+
+#### [WiSe20/21 - ISE Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en)
+- Winter Semester 2019/20: Information Service Engineering Project Course at KIT (AIFB)
+
 #### [SoSe2020 - ISE Lecture](http://www.aifb.kit.edu/web/Lehre/Vorlesung_Information_Service_Engineering/en)
 - Summer Semester 2020: Information Service Engineering Lecture
 
-#### [WiSe1920 - ISE Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en)
-- Winter Semester 2019/20: Information Service Engineering Project Course at KIT (AIFB)
+#### [WiSe20/21 - ISE Project Course](https://www.aifb.kit.edu/web/Lehre/Seminar_Seminar_Representation_Learning_for_Knowledge_Graphs/en)
+- Winter Semester 2019/20: Representation Learning for Knowledge Graphs at KIT (AIFB)
 
 #### [SoSe2019 - ISE Lecture](https://campus.studium.kit.edu/ev/qYFGNlFZSTmjZCOeN5tfnQ/en)
 - Summer Semester 2019: Information Service Engineering Lecture at KIT (AIFB)
 
-#### [WiSe1819 - ISE Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en)
+#### [WiSe18/19 - ISE Project Course](http://www.aifb.kit.edu/web/Lehre/Praktikum_Projektpraktikum_Information_Service_Engineering/en)
 - Winter Semester 2018/19: Information Service Engineering Project Course at KIT (AIFB)
 
 #### [SoSe2018 - ISE Lecture](http://www.aifb.kit.edu/web/Lehre/Vorlesung_Information_Service_Engineering/en)
@@ -83,7 +89,7 @@ In this lecture, the students will learn the fundamentals of natural language pr
 
 ---
 
-# Team
+# ISE Team
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack)
 - Katja Kling (Team Assistant)
 - [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
