@@ -16,9 +16,9 @@ In this lecture, the students will learn the fundamentals of natural language pr
 
 |   Topic                                                     | Lecture | Lab   | Q & A  | Materials |
 |-------------------------------------------------------------|--------|--------|--------| ----------|
-|  [1. Information, Natural Language, and the Web](#lecture1) | 14-Apr | 19-Apr | 14-Apr | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/01-ISE2021-Information.pdf) |
-|  [2. Natural Language Processing 1](#lecture2)              | 21-Apr |  3-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/02-ISE2021-NLP1.pdf) |
-|  3. Natural Language Processing 2              | 28-Apr |  3-May | 12-May | |
+|  [1. Information, Natural Language, and the Web](#lecture1) | 14-Apr | 19-Apr | 14-Apr | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/01-ISE2021-Information.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzufxyMV5yhNsLvLhVi1LyRu) |
+|  [2. Natural Language Processing 1](#lecture2)              | 21-Apr |  3-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/02-ISE2021-NLP1.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://youtube.com/playlist?list=PLNXdQl4kBgzvNJBbhC_ucUJiXcUe8qx0f) |
+|  [3. Natural Language Processing 2](#lecture3)            | 28-Apr |  3-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/03-ISE2021-NLP2.pdf) |
 |  4. Natural Language Processing 3              |  5-May | 17-May | 12-May | |
 |  5. Natural Language Processing 4              | 12-May | 17-May | 12-May | |
 |  6. Knowledge Graphs 1                         | 21-May | 31-May | 16-May | |
@@ -49,14 +49,12 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - 2.1  Basic Linguistics
 - 2.2  Morphology
 - 2.3  NLP Applications
+
+#### <a name="lecture3"></a> 2. Natural Language Processing 2 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/03-ISE2021-NLP2.pdf))
 - 2.4  NLP Techniques
 - 2.5  NLP Challenges
 - 2.6  Evaluation, Precision, and Recall
 - 2.7  Regular Expressions
-- 2.8  Finite State Automata
-- 2.9  Tokenization
-- 2.10 Language Model and N-Grams
-- 2.11 Part-of-Speech Tagging
 
 ---
 # Past Courses
