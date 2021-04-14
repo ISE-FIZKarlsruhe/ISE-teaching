@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational linguistics | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/computational-linguistics/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/computational-linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>computational linguistics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Apr 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>computational linguistics</title>
+      <link>http://localhost:1313/ISE-teaching/tag/computational-linguistics/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 2</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-2/</link>
+      <pubDate>Wed, 21 Apr 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2.0  What is Natural Language Processing?&lt;/li&gt;
+&lt;li&gt;2.1  Basic Linguistics&lt;/li&gt;
+&lt;li&gt;2.2  Morphology&lt;/li&gt;
+&lt;li&gt;2.3  NLP Applications&lt;/li&gt;
+&lt;li&gt;2.4  NLP Techniques&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>precision | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/precision/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/precision/index.xml" rel="self" type="application/rss+xml" />
+    <description>precision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Apr 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>precision</title>
+      <link>http://localhost:1313/ISE-teaching/tag/precision/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 3</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-3/</link>
+      <pubDate>Wed, 28 Apr 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-3/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2.4  NLP Techniques&lt;/li&gt;
+&lt;li&gt;2.5  NLP Challenges&lt;/li&gt;
+&lt;li&gt;2.6  Evaluation, Precision, and Recall&lt;/li&gt;
+&lt;li&gt;2.7  Regular Expressions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

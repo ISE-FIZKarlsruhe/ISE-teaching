@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | ISE Courses</title>
-    <link>http://localhost:49299/ISE-teaching/publication-type/1/</link>
-      <atom:link href="http://localhost:49299/ISE-teaching/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ISE-teaching/publication-type/1/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49299/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
       <title>1</title>
-      <link>http://localhost:49299/ISE-teaching/publication-type/1/</link>
+      <link>http://localhost:1313/ISE-teaching/publication-type/1/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:49299/ISE-teaching/publication/example/</link>
+      <link>http://localhost:1313/ISE-teaching/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49299/ISE-teaching/publication/example/</guid>
+      <guid>http://localhost:1313/ISE-teaching/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | ISE Courses</title>
-    <link>http://localhost:49299/ISE-teaching/category/demo/</link>
-      <atom:link href="http://localhost:49299/ISE-teaching/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ISE-teaching/category/demo/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49299/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
       <title>Demo</title>
-      <link>http://localhost:49299/ISE-teaching/category/demo/</link>
+      <link>http://localhost:1313/ISE-teaching/category/demo/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://localhost:49299/ISE-teaching/post/getting-started/</link>
+      <link>http://localhost:1313/ISE-teaching/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49299/ISE-teaching/post/getting-started/</guid>
+      <guid>http://localhost:1313/ISE-teaching/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
