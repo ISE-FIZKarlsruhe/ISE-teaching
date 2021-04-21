@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formal languages | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/formal-languages/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/formal-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>formal languages</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>formal languages</title>
+      <link>http://localhost:1313/ISE-teaching/tag/formal-languages/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 4</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-4/</link>
+      <pubDate>Wed, 12 May 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-4/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2.8  Finite State Automata&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
