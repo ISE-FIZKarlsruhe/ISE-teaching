@@ -38,7 +38,22 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-5/</loc>
+    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/language-models/</loc>
+    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/ISE-teaching/event/</loc>
+    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/n-grams/</loc>
     <lastmod>2021-05-12T08:00:00+00:00</lastmod>
   </url>
   
@@ -54,6 +69,11 @@
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/tags/</loc>
+    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/word-embeddings/</loc>
     <lastmod>2021-05-12T08:00:00+00:00</lastmod>
   </url>
   

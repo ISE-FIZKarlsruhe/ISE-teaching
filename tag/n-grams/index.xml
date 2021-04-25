@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>n-grams | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/n-grams/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/n-grams/index.xml" rel="self" type="application/rss+xml" />
+    <description>n-grams</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>n-grams</title>
+      <link>http://localhost:1313/ISE-teaching/tag/n-grams/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 5</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-5/</link>
+      <pubDate>Wed, 12 May 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-5/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2.10  Language Model and N-Grams&lt;/li&gt;
+&lt;li&gt;2.11  Part-Of-Speech Tagging&lt;/li&gt;
+&lt;li&gt;2.12  Word Embeddings&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
