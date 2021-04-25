@@ -50,17 +50,17 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - 2.2  Morphology
 - 2.3  NLP Applications
 
-#### <a name="lecture3"></a> 2. Natural Language Processing 2 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/03-ISE2021-NLP2.pdf))
+#### <a name="lecture3"></a> 3. Natural Language Processing 2 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/03-ISE2021-NLP2.pdf))
 - 2.4  NLP Techniques
 - 2.5  NLP Challenges
 - 2.6  Evaluation, Precision, and Recall
 - 2.7  Regular Expressions
 
-#### <a name="lecture4"></a> 2. Natural Language Processing 3 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/04-ISE2021-NLP3.pdf))
+#### <a name="lecture4"></a> 4. Natural Language Processing 3 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/04-ISE2021-NLP3.pdf))
 - 2.8  Finite State Automata
 - 2.9  Tokenization
 
-#### <a name="lecture5"></a> 2. Natural Language Processing 4 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/05-ISE2021-NLP4.pdf))
+#### <a name="lecture5"></a> 5. Natural Language Processing 4 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/05-ISE2021-NLP4.pdf))
 - 2.10  Language Model and N-Grams
 - 2.11  Part-Of-Speech Tagging
 - 2.12  Word Embeddings
