@@ -4,36 +4,66 @@
   
   <url>
     <loc></loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/automata-theory/</loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/finite-state-automata/</loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/formal-languages/</loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ISE-teaching/tag/fair-principles/</loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/</loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-6/</loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/knowledge-graphs/</loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/event/</loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/linked-data/</loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/semantic-web/</loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tags/</loc>
+    <lastmod>2021-05-21T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2021-05-12T08:00:00+00:00</lastmod>
   </url>
   
@@ -48,27 +78,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/ISE-teaching/event/</loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/ISE-teaching/tag/n-grams/</loc>
     <lastmod>2021-05-12T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/tag/nlp/</loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tags/</loc>
     <lastmod>2021-05-12T08:00:00+00:00</lastmod>
   </url>
   
@@ -80,6 +95,21 @@
   <url>
     <loc></loc>
     <lastmod>2021-05-12T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/automata-theory/</loc>
+    <lastmod>2021-05-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/finite-state-automata/</loc>
+    <lastmod>2021-05-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/formal-languages/</loc>
+    <lastmod>2021-05-05T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -159,16 +189,6 @@
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/tag/machine-learning/</loc>
-    <lastmod>2021-04-14T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/semantic-web/</loc>
-    <lastmod>2021-04-14T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2021-04-14T08:00:00+00:00</lastmod>
   </url>
   

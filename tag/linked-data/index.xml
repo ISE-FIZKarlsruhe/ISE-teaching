@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linked Data | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/linked-data/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/linked-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linked Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>Linked Data</title>
+      <link>http://localhost:1313/ISE-teaching/tag/linked-data/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 6</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-6/</link>
+      <pubDate>Fri, 21 May 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-6/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;3.1 Knowledge Representation and Ontologies&lt;/li&gt;
+&lt;li&gt;3.2 Semantic Web and the Web of Data&lt;/li&gt;
+&lt;li&gt;3.3 Linked Data Principles&lt;/li&gt;
+&lt;li&gt;3.4 How to identify and Access Things - URIs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
