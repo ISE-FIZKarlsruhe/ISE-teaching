@@ -19,9 +19,9 @@ In this lecture, the students will learn the fundamentals of natural language pr
 |  [1. Information, Natural Language, and the Web](#lecture1) | 14-Apr | 19-Apr | 14-Apr | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/01-ISE2021-Information.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzufxyMV5yhNsLvLhVi1LyRu) |
 |  [2. Natural Language Processing 1](#lecture2)              | 21-Apr |  3-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/02-ISE2021-NLP1.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://youtube.com/playlist?list=PLNXdQl4kBgzvNJBbhC_ucUJiXcUe8qx0f) |
 |  [3. Natural Language Processing 2](#lecture3)            | 28-Apr |  3-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/03-ISE2021-NLP2.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://youtube.com/playlist?list=PLNXdQl4kBgzt6DNeooX3RrZ36kYHUjcPE)|
-|  [4. Natural Language Processing 3](#lecture4)              |  5-May | 17-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/04-ISE2021-NLP3.pdf) |
-|  [5. Natural Language Processing 4](#lecture5)              | 12-May | 17-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/05-ISE2021-NLP4.pdf) |
-|  6. Knowledge Graphs 1                         | 21-May | 31-May | 16-May | |
+|  [4. Natural Language Processing 3](#lecture4)              |  5-May | 17-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/04-ISE2021-NLP3.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgztKdtFpD7jIXbA-14w-AHGZ)|
+|  [5. Natural Language Processing 4](#lecture5)              | 12-May | 17-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/05-ISE2021-NLP4.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgztwKrKv69LPAqqX1vgHENSi)|
+|  [6. Knowledge Graphs 1](#lecture6)                         | 21-May | 31-May | 16-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/06-ISE2021-KG1.pdf)|
 |  7. Knowledge Graphs 2                         | 26-May | 31-May | 16-May | |
 |  8. Knowledge Graphs 3                         |  2-Jun | 14-Jun | 16-May | |
 |  8. Knowledge Graphs 4                         |  9-Jun | 14-Jun | 16-May | |
@@ -64,6 +64,12 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - 2.10  Language Model and N-Grams
 - 2.11  Part-Of-Speech Tagging
 - 2.12  Word Embeddings
+
+#### <a name="lecture6"></a> 6. Knowledge Graphs 1 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/06-ISE2021-KG1.pdf))
+- 3.1 Knowledge Representation and Ontologies
+- 3.2 Semantic Web and the Web of Data
+- 3.3 Linked Data Principles
+- 3.4 How to identify and Access Things - URIs
 
 ---
 # Past Courses
