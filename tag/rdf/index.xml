@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDF | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/rdf/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/rdf/index.xml" rel="self" type="application/rss+xml" />
+    <description>RDF</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>RDF</title>
+      <link>http://localhost:1313/ISE-teaching/tag/rdf/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 7</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-7/</link>
+      <pubDate>Wed, 26 May 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-7/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;3.5 Resource Description Framework (RDF) as simple Data Model&lt;/li&gt;
+&lt;li&gt;3.6 Creating new Models with RDFS&lt;/li&gt;
+&lt;li&gt;3.7 Knowledge Graphs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
