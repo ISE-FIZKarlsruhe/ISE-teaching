@@ -23,7 +23,7 @@ In this lecture, the students will learn the fundamentals of natural language pr
 |  [5. Natural Language Processing 4](#lecture5)              | 12-May | 17-May | 12-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/05-ISE2021-NLP4.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgztwKrKv69LPAqqX1vgHENSi)|
 |  [6. Knowledge Graphs 1](#lecture6)                         | 21-May | 31-May | 16-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/06-ISE2021-KG1.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzuT1gutt-5EnFc1OGsXnjCC)|
 |  [7. Knowledge Graphs 2](#lecture7)                  | 26-May | 31-May | 16-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/07-ISE2021-KG2.pdf) |
-|  8. Knowledge Graphs 3                         |  2-Jun | 14-Jun | 16-May | |
+|  [8. Knowledge Graphs 3](#lecture8)                         |  2-Jun | 14-Jun | 16-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/08-ISE2021-KG3.pdf) |
 |  8. Knowledge Graphs 4                         |  9-Jun | 14-Jun | 16-May | |
 |  9. Machine Learning 1                         | 16-Jun | 28-Jun | 30-Jun | |
 | 10. Machine Learning 2                         | 23-Jun | 28-Jun | 30-Jun | |
@@ -75,6 +75,11 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - 3.5 Resource Description Framework (RDF) as simple Data Model
 - 3.6 Creating new Models with RDFS
 - 3.7 Knowledge Graphs
+
+#### <a name="lecture8"></a> 8. Knowledge Graphs 3 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/08-ISE2021-KG3.pdf))
+- 3.8 Querying Knowledge Graphs with SPARQL
+- 3.9 More Expressivity with Web Ontology Language (OWL)
+- 3.10 Knowledge Graph Programming
 
 ---
 # Past Courses
