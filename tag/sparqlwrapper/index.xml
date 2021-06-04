@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPARQLWrapper | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/sparqlwrapper/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/sparqlwrapper/index.xml" rel="self" type="application/rss+xml" />
+    <description>SPARQLWrapper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>SPARQLWrapper</title>
+      <link>http://localhost:1313/ISE-teaching/tag/sparqlwrapper/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 9</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-9/</link>
+      <pubDate>Wed, 09 Jun 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-9/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;3.9 More Expressivity with Web Ontology Language (OWL)&lt;/li&gt;
+&lt;li&gt;3.10 Knowledge Graph Programming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
