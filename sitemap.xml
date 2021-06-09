@@ -3,23 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-9/</loc>
+    <loc></loc>
     <lastmod>2021-06-09T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc></loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/</loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-9/</loc>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/knowledge-graphs/</loc>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/event/</loc>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/owl/</loc>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/rdflib/</loc>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/sparqlwrapper/</loc>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tags/</loc>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,27 +68,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/knowledge-graphs/</loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/event/</loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/owl/</loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/ISE-teaching/tag/rdf/</loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/rdflib/</loc>
     <lastmod>2021-06-02T08:00:00+00:00</lastmod>
   </url>
   
@@ -63,17 +83,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/sparqlwrapper/</loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc></loc>
-    <lastmod>2021-06-02T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tags/</loc>
     <lastmod>2021-06-02T08:00:00+00:00</lastmod>
   </url>
   
@@ -103,11 +113,6 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-5/</loc>
     <lastmod>2021-05-12T08:00:00+00:00</lastmod>
   </url>
@@ -129,11 +134,6 @@
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/tag/word-embeddings/</loc>
-    <lastmod>2021-05-12T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2021-05-12T08:00:00+00:00</lastmod>
   </url>
   
