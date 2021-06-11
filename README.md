@@ -26,7 +26,7 @@ In this lecture, the students will learn the fundamentals of natural language pr
 |  [8. Knowledge Graphs 3](#lecture8)                         |  2-Jun | 21-Jun | 23-Jun | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/08-ISE2021-KG3.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzsxetQvJula_NZheeG4onsR) |
 |  [9. Knowledge Graphs 4](#lecture9)                         |  9-Jun | 21-Jun | 16-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/09-ISE2021-KG4.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgztoZmXxRdvYsW_TUebYXR2P)|
 | 10. Machine Learning 1                         | 16-Jun | 28-Jun | 14-Jul | |
-| 11. Machine Learning 2                         | 23-Jun | 28-Jun | 14-Jul | |
+| 11. Machine Learning 2                         | 23-Jun | 28-Jun | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/export-csv.png" width=20px alt="Download CSV">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/dataset/berlin-temp.csv) |
 | 12. Machine Learning 3                         | 30-Jun | 12-Jul | 14-Jul | |
 | 13. ISE Applications 1                         |  7-Jul | 12-Jul | 21-Jul | |
 | 14. ISE Applications 2                         | 14-Jul | 12-Jul | 21-Jul | |
