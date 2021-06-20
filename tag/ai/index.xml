@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/ai/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>AI</title>
+      <link>http://localhost:1313/ISE-teaching/tag/ai/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 11</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-11/</link>
+      <pubDate>Mon, 28 Jun 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-11/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;4.4 Machine Learning Workflow&lt;/li&gt;
+&lt;li&gt;4.5 Basic ML Algorithms 1 - k-Means Clustering&lt;/li&gt;
+&lt;li&gt;4.6 Basic ML Algorithms 2 - Linear Regression&lt;/li&gt;
+&lt;li&gt;4.7 Basic ML Algorithms 3 - Decision Trees&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISE Lecture 10</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-10/</link>
+      <pubDate>Mon, 21 Jun 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-10/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;3.9 More Expressivity with Web Ontology Language (OWL)&lt;/li&gt;
+&lt;li&gt;3.10 Knowledge Graph Programming&lt;/li&gt;
+&lt;li&gt;4.1 A Brief History of AI&lt;/li&gt;
+&lt;li&gt;4.2 Introduction to Machine Learning&lt;/li&gt;
+&lt;li&gt;4.3 Main Challenges of Machine Learning&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
