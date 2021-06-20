@@ -89,8 +89,10 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - 4.3 Main Challenges of Machine Learning
 
   #### <a name="lecture11"></a> 11. Machine Learning 2 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/11-ISE2021-ML2.pdf))
-- 3.9 More Expressivity with Web Ontology Language (OWL)
-- 3.10 Knowledge Graph Programming
+- 4.4 Machine Learning Workflow
+- 4.5 Basic ML Algorithms 1 - k-Means Clustering
+- 4.6 Basic ML Algorithms 2 - Linear Regression
+- 4.7 Basic ML Algorithms 3 - Decision Trees
 
 ---
 # Past Courses
