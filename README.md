@@ -25,8 +25,8 @@ In this lecture, the students will learn the fundamentals of natural language pr
 |  [7. Knowledge Graphs 2](#lecture7)                  | 26-May | 7-Jun | 23-Jun | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/07-ISE2021-KG2.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzuuZZkITEN5vIVSIrFuExv1)   |
 |  [8. Knowledge Graphs 3](#lecture8)                         |  2-Jun | 21-Jun | 23-Jun | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/08-ISE2021-KG3.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzsxetQvJula_NZheeG4onsR) |
 |  [9. Knowledge Graphs 4](#lecture9)                         |  9-Jun | 21-Jun | 16-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/09-ISE2021-KG4.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgztoZmXxRdvYsW_TUebYXR2P)|
-| 10. Machine Learning 1                         | 16-Jun | 28-Jun | 14-Jul | |
-| 11. Machine Learning 2                         | 23-Jun | 28-Jun | 14-Jul | <a href="materials/dataset/berlin-temp.csv"> <img alt="Download CSV" src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/export-csv.png" width=20px download="download" target="_blank"/> |
+| [10. Machine Learning 1](#lecture10)                         | 16-Jun | 28-Jun | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/10-ISE2021-ML1.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzvyxmBMurbrnp67cj1ZPWsZ)|
+| [11. Machine Learning 2](#lecture11)                         | 23-Jun | 28-Jun | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/11-ISE2021-ML2.pdf) <a href="materials/dataset/berlin-temp.csv"> <img alt="Download CSV" src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/export-csv.png" width=20px download="download" target="_blank"/> |
 | 12. Machine Learning 3                         | 30-Jun | 12-Jul | 14-Jul | |
 | 13. ISE Applications 1                         |  7-Jul | 12-Jul | 21-Jul | |
 | 14. ISE Applications 2                         | 14-Jul | 12-Jul | 21-Jul | |
@@ -80,6 +80,15 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - 3.8 Querying Knowledge Graphs with SPARQL
 
 #### <a name="lecture9"></a> 9. Knowledge Graphs 4 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/09-ISE2021-KG4.pdf))
+- 3.9 More Expressivity with Web Ontology Language (OWL)
+- 3.10 Knowledge Graph Programming
+
+ #### <a name="lecture10"></a> 10. Machine Learning 1 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/10-ISE2021-ML1.pdf))
+- 4.1 A Brief History of AI
+- 4.2 Introduction to Machine Learning
+- 4.3 Main Challenges of Machine Learning
+
+  #### <a name="lecture11"></a> 11. Machine Learning 2 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/11-ISE2021-ML2.pdf))
 - 3.9 More Expressivity with Web Ontology Language (OWL)
 - 3.10 Knowledge Graph Programming
 
