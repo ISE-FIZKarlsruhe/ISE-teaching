@@ -5,7 +5,7 @@
     <link>http://localhost:1313/ISE-teaching/tag/ai/</link>
       <atom:link href="http://localhost:1313/ISE-teaching/tag/ai/index.xml" rel="self" type="application/rss+xml" />
     <description>AI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 08:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
       <title>AI</title>
@@ -32,8 +32,6 @@
       <pubDate>Mon, 21 Jun 2021 08:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-10/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;3.9 More Expressivity with Web Ontology Language (OWL)&lt;/li&gt;
-&lt;li&gt;3.10 Knowledge Graph Programming&lt;/li&gt;
 &lt;li&gt;4.1 A Brief History of AI&lt;/li&gt;
 &lt;li&gt;4.2 Introduction to Machine Learning&lt;/li&gt;
 &lt;li&gt;4.3 Main Challenges of Machine Learning&lt;/li&gt;

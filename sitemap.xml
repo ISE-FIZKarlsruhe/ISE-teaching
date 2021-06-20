@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc></loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/ai/</loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/artificial-intelligence/</loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/ISE-teaching/tag/decision-trees/</loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/</loc>
     <lastmod>2021-06-28T08:00:00+00:00</lastmod>
   </url>
   
@@ -18,7 +48,27 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/ISE-teaching/event/</loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/ISE-teaching/tag/linear-regression/</loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/maching-learning/</loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/ml/</loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tags/</loc>
     <lastmod>2021-06-28T08:00:00+00:00</lastmod>
   </url>
   
@@ -28,27 +78,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/ai/</loc>
-    <lastmod>2021-06-21T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/artificial-intelligence/</loc>
-    <lastmod>2021-06-21T08:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-10/</loc>
-    <lastmod>2021-06-21T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/maching-learning/</loc>
-    <lastmod>2021-06-21T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/ml/</loc>
     <lastmod>2021-06-21T08:00:00+00:00</lastmod>
   </url>
   
@@ -58,37 +93,12 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/</loc>
-    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-9/</loc>
     <lastmod>2021-06-09T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/tag/knowledge-graphs/</loc>
-    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/event/</loc>
     <lastmod>2021-06-09T08:00:00+00:00</lastmod>
   </url>
   
@@ -104,16 +114,6 @@
   
   <url>
     <loc>http://localhost:1313/ISE-teaching/tag/sparqlwrapper/</loc>
-    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tags/</loc>
-    <lastmod>2021-06-09T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2021-06-09T08:00:00+00:00</lastmod>
   </url>
   
