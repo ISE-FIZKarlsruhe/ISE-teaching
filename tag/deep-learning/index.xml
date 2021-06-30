@@ -5,12 +5,25 @@
     <link>http://localhost:1313/ISE-teaching/tag/deep-learning/</link>
       <atom:link href="http://localhost:1313/ISE-teaching/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jul 2021 08:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
       <title>Deep Learning</title>
       <link>http://localhost:1313/ISE-teaching/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>ISE Lecture 12</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-12/</link>
+      <pubDate>Mon, 05 Jul 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-12/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;4.8 Neural Networks and Deep Learning&lt;/li&gt;
+&lt;li&gt;4.9 Knowledge Graph Embeddings&lt;/li&gt;
+&lt;li&gt;4.10 Knowledge Graph Completion&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>

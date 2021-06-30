@@ -4,7 +4,67 @@
   
   <url>
     <loc></loc>
-    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/deep-learning/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-12/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/kg-completion/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/kge/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/knowledge-graph-embeddings/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/event/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tag/maching-learning/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ISE-teaching/tags/</loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-07-05T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,21 +83,6 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/</loc>
-    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/ISE-teaching/talk/ise-lecture-11/</loc>
     <lastmod>2021-06-28T08:00:00+00:00</lastmod>
   </url>
@@ -48,17 +93,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/ISE-teaching/event/</loc>
-    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/ISE-teaching/tag/linear-regression/</loc>
-    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/maching-learning/</loc>
     <lastmod>2021-06-28T08:00:00+00:00</lastmod>
   </url>
   
@@ -68,17 +103,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/ISE-teaching/tags/</loc>
-    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/ISE-teaching/tag/unsupervised/</loc>
-    <lastmod>2021-06-28T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
     <lastmod>2021-06-28T08:00:00+00:00</lastmod>
   </url>
   
@@ -340,11 +365,6 @@
   <url>
     <loc>http://localhost:1313/ISE-teaching/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/ISE-teaching/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
