@@ -27,7 +27,7 @@ In this lecture, the students will learn the fundamentals of natural language pr
 |  [9. Knowledge Graphs 4](#lecture9)                         |  9-Jun | 21-Jun | 16-May | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/09-ISE2021-KG4.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgztoZmXxRdvYsW_TUebYXR2P)|
 | [10. Machine Learning 1](#lecture10)                         | 16-Jun | 28-Jun | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/10-ISE2021-ML1.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzvyxmBMurbrnp67cj1ZPWsZ)|
 | [11. Machine Learning 2](#lecture11)                         | 23-Jun | 28-Jun | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/11-ISE2021-ML2.pdf)  [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgztV6tMCV9GWf96CWbiYpyMR) <a href="materials/dataset/berlin-temp.csv"> <img alt="Download CSV" src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/export-csv.png" width=20px download="download" target="_blank"/> |
-| 12. Machine Learning 3                         | 30-Jun | 12-Jul | 14-Jul | |
+| [12. Machine Learning 3](#lecture12)                         | 30-Jun | 12-Jul | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/12-ISE2021-ML3.pdf) |
 | 13. ISE Applications 1                         |  7-Jul | 12-Jul | 21-Jul | |
 | 14. ISE Applications 2                         | 14-Jul | 12-Jul | 21-Jul | |
 | Summary and Q&A                            | 21-Jul |             |             | |
@@ -93,6 +93,11 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - 4.5 Basic ML Algorithms 1 - k-Means Clustering
 - 4.6 Basic ML Algorithms 2 - Linear Regression
 - 4.7 Basic ML Algorithms 3 - Decision Trees
+
+  #### <a name="lecture12"></a> 12. Machine Learning 3 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/12-ISE2021-ML3.pdf))
+- 4.8 Neural Networks and Deep Learning
+- 4.9 Knowledge Graph Embeddings
+- 4.10 Knowledge Graph Completion
 
 ---
 # Past Courses
