@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics | ISE Courses</title>
+    <link>http://localhost:1313/ISE-teaching/tag/data-analytics/</link>
+      <atom:link href="http://localhost:1313/ISE-teaching/tag/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analytics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/ISE-teaching/media/logo_hu2a72930fbfaa8da1710540ab7e6f41da_8789_300x300_fit_lanczos_2.png</url>
+      <title>Data Analytics</title>
+      <link>http://localhost:1313/ISE-teaching/tag/data-analytics/</link>
+    </image>
+    
+    <item>
+      <title>ISE Lecture 13</title>
+      <link>http://localhost:1313/ISE-teaching/talk/ise-lecture-13/</link>
+      <pubDate>Mon, 12 Jul 2021 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ISE-teaching/talk/ise-lecture-13/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;5.1 What is Information Service Engineering?&lt;/li&gt;
+&lt;li&gt;5.2 Knowledge Mining and Information Extraction I&lt;/li&gt;
+&lt;li&gt;5.3 Knowledge Mining and Information Extraction II&lt;/li&gt;
+&lt;li&gt;5.4 Hands-on Data Analytics Example&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
