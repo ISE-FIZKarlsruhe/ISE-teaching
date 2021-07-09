@@ -28,7 +28,7 @@ In this lecture, the students will learn the fundamentals of natural language pr
 | [10. Machine Learning 1](#lecture10)                         | 16-Jun | 28-Jun | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/10-ISE2021-ML1.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzvyxmBMurbrnp67cj1ZPWsZ)|
 | [11. Machine Learning 2](#lecture11)                         | 23-Jun | 28-Jun | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/11-ISE2021-ML2.pdf)  [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgztV6tMCV9GWf96CWbiYpyMR) <a href="materials/dataset/berlin-temp.csv"> <img alt="Download CSV" src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/export-csv.png" width=20px download="download" target="_blank"/> |
 | [12. Machine Learning 3](#lecture12)                         | 30-Jun | 12-Jul | 14-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/12-ISE2021-ML3.pdf) [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/video.png" width=20px alt="View Lecture">](https://www.youtube.com/playlist?list=PLNXdQl4kBgzsi4WsCeCKOGSQdH-gWgt7R)  <a href="materials/dataset/womensoccerdata-Wikidata-2021.csv"> <img alt="Download Wikipedia Women's Soccer Data" src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/export-csv.png" width=20px download="download" target="_blank"/> <a href="materials/dataset/cleanedup-womensoccerdata-Wikidata-2021.csv"> <img alt="Downloand Wikipedia Women's Soccer Data (cleanedup)" src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/export-csv.png" width=20px download="download" target="_blank"/>|
-| 13. ISE Applications 1                         |  7-Jul | 12-Jul | 21-Jul | |
+| [13. ISE Applications 1](#lecture13)                         |  7-Jul | 12-Jul | 21-Jul | [<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/13-ISE2021-ISEApps1.pdf) |
 | 14. ISE Applications 2                         | 14-Jul | 12-Jul | 21-Jul | |
 | Summary and Q&A                            | 21-Jul |             |             | |
 
@@ -99,6 +99,12 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - 4.9 Knowledge Graph Embeddings
 - 4.10 Knowledge Graph Completion
 
+ #### <a name="lecture13"></a> 13. ISE Applications 1 ([<img src="https://ISE-FIZKarlsruhe.github.io/ISE-teaching/assets/media/slides.png" width=20px alt="Download Slides">](https://ISE-FIZKarlsruhe.github.io/ISE-teaching/materials/lecture/13-ISE2021-ISEApps1.pdf))
+- 5.1 What is Information Service Engineering?
+- 5.2 Knowledge Mining and Information Extraction I
+- 5.3 Knowledge Mining and Information Extraction II
+- 5.4 Hands-on Data Analytics Example
+ 
 ---
 # Past Courses
 #### [Knowledge Graphs (2020)](https://open.hpi.de/courses/knowledgegraphs2020)
