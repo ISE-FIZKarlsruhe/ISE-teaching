@@ -136,8 +136,8 @@ In this lecture, the students will learn the fundamentals of natural language pr
 
 # ISE Team
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack)
-- Katja Kling (Team Assistant)
 - [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
+- Jörg Waitelonis (Post-Doc)
 - [Dr. Danilo Dessi](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-danilo-dessi) (Post-Doc)
 - [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (Junior Researcher, PhD candidate)
 - [Oleksandra Bruns](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-oleksandra-bruns) (Junior Researcher, PhD candidate)
@@ -147,4 +147,5 @@ In this lecture, the students will learn the fundamentals of natural language pr
 - [Mary Ann Tan](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-mary-ann-tan) (Junior Researcher, PhD candidate)
 - [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Junior Researcher)
 - [Mahsa Vafaie](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-mahsa-vafaie) (Junior Researcher, PhD candidate)
+- [Cristian Santini](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-cristian-santini) (Junior Researcher, PhD Candidate)
 - Radina Sofronova (Student co-worker)
