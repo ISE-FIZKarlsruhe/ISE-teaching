@@ -136,16 +136,11 @@ In this lecture, the students will learn the fundamentals of natural language pr
 
 # ISE Team
 - [Prof. Dr. Harald Sack](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack)
-- [Dr. Mehwish Alam](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-mehwish-alam) (Post-Doc)
 - Jörg Waitelonis (Post-Doc)
-- [Dr. Danilo Dessi](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-dr-danilo-dessi) (Post-Doc)
-- [Russa Biswas](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-russa-biswas) (Junior Researcher, PhD candidate)
 - [Oleksandra Bruns](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-oleksandra-bruns) (Junior Researcher, PhD candidate)
-- [Yiyi Chen](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-yiyi-chen) (Junior Researcher, PhD candidate)
 - [Genet Asefa Gesese](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-genet-asefa-gesese) (Junior Researcher, PhD candidate)
 - [Fabian Hoppe](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-fabian-hoppe) (Junior Researcher, PhD candidate)
 - [Mary Ann Tan](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-mary-ann-tan) (Junior Researcher, PhD candidate)
 - [Tabea Tietz](https://www.fiz-karlsruhe.de/index.php/en/forschung/lebenslauf-und-publikationen-tabea-tietz) (Junior Researcher)
 - [Mahsa Vafaie](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-mahsa-vafaie) (Junior Researcher, PhD candidate)
-- [Cristian Santini](https://www.fiz-karlsruhe.de/de/forschung/lebenslauf-und-publikationen-cristian-santini) (Junior Researcher, PhD Candidate)
-- Radina Sofronova (Student co-worker)
+
